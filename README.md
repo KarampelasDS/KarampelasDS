@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KarampelasDS
 - 👀 I’m interested in designing and deploying web applications
-- 🌱 I’m currently learning React and Laravel
+- 🌱 I’m currently learning React
 - 📫 You can reach me at my email: 24dimitris@gmail.com

@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @KarampelasDS<br>👀 I’m interested in designing and deploying web applications<br>🌱 I’m currently learning React<br>📫 You can reach me at my email: 24dimitris@gmail.com
+👋 Hi, I’m @KarampelasDS<br>👀 I’m interested in designing and deploying web applications<br>🌱 I’m currently learning NextJS<br>📫 You can reach me at my email: 24dimitris@gmail.com
 
 
 # 💻 Tech Stack:

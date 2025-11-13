@@ -1,6 +1,6 @@
 
 # 🧑‍💻 About Me:
-👋 Hey there, I’m Dimitris
+👋 Hey there, I’m Dimitris Karampelas
 
 I’m a **web developer** passionate about crafting delightful, accessible, and high-performance user experiences for web and mobile alike.  
 Currently building with **React**, **Next.js**, and diving deep into **React Native** with Expo.

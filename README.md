@@ -1,5 +1,5 @@
 
-👋Hi My name is Dimitris Karampelas
+Hi👋 My name is Dimitris Karampelas
 ============================================================================================================================================
 
 Software Engineer
@@ -27,10 +27,6 @@ src="https://img.shields.io/github/followers/KarampelasDS?logo=github&style=for-
 ### My GitHub Stats
 
 <a href="http://www.github.com/KarampelasDS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KarampelasDS&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/KarampelasDS/movieguesser" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KarampelasDS&repo=movieguesser&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KarampelasDS/drinking-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KarampelasDS&repo=drinking-game&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 

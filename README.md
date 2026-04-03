@@ -23,11 +23,8 @@ I am a Software engineer currently based in Athens. I work with React and TypeSc
 <a href="https://www.github.com/KarampelasDS" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KarampelasDS?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/KarampelasDS"><img src="https://github-readme-stats.vercel.app/api?username=KarampelasDS&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="KarampelasDS's GitHub stats" /></a>
+### My GitHub Stats
 
 <a href="http://www.github.com/KarampelasDS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KarampelasDS&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

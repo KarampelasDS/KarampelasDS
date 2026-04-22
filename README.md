@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🙋‍♂️ About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I work with</h2>
+<h2 align="left">🧑‍💻 I work with</h2>
 
 ###
 
@@ -64,20 +64,22 @@
 
 ###
 
-### Socials
+<h2 align="left">💬 Socials</h2>
+
 
 <p align="left"> <a href="https://www.github.com/KarampelasDS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/dimitriskarampelas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/KarampelasDS" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KarampelasDS?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
 
-### My GitHub Stats
+<h2 align="left">💻 My Github stats</h2>
 
 <a href="http://www.github.com/KarampelasDS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KarampelasDS&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Support Me
+<h2 align="left">💌 Support Me</h2>
 
 <a href="https://www.ko-fi.com//karampelasds"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
-### ✍️ Random Dev Quote
+<h2 align="left">✍️ Random Dev Quote</h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

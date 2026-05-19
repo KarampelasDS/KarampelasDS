@@ -10,7 +10,7 @@
 
 ###
 
-🌍 I'm based in Athens, Greece<br>✉️ You can contact me at [24dimitris@gmail.com](mailto:24dimitris@gmail.com)<br>🚀 I'm currently working on Dishmeister: a social recipe app built with React, Supabase, and TypeScript.<br>🧠 I'm currently learning Backend development (Boot.dev my beloved <3) and system design patterns<br>⚡ Native Greek & English speaker. I think most UI problems are actually communication problems. I built a recipe app because I genuinely think about food too much. Probably has too many browser tabs open right now.
+🌍 I'm based in Athens, Greece<br>✉️ You can contact me at [24dimitris@gmail.com](mailto:24dimitris@gmail.com)<br>🚀 I'm currently working on [Dishmeister](https://www.dishmeister.com): a social recipe app built with React, Supabase, and TypeScript.<br>🧠 I'm currently learning Backend development (Boot.dev my beloved <3) and system design patterns<br>⚡ Native Greek & English speaker. I think most UI problems are actually communication problems. I built a recipe app because I genuinely think about food too much. Probably has too many browser tabs open right now.
 
 ###
 

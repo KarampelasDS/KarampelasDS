@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Software Engineer currently based in Athens, Greece. I work with React and TypeScript day-to-day, and I'm currently building Dishmeister, a social recipe app, as my main side project. Rounding out my backend knowledge on the side.</p>
+<p align="left">I am a Software Engineer currently based in Athens, Greece. I work with React and TypeScript day-to-day, and I'm currently building Dishmeister, a social recipe app, as my main side project. Rounding out my backend dev knowledge on the side.</p>
 
 ###
 

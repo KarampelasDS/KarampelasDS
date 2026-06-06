@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Software Engineer currently based in Athens, Greece. I work with React and TypeScript day-to-day, and I'm currently building TuneSaver, a song matching utility tool for beat saber and spotify. Rounding out my backend dev knowledge on the side.</p>
+<p align="left">I am a Software Engineer currently based in Athens, Greece. I work with React and TypeScript day-to-day, rounding out my backend knowledge with Node.js, Express, and PostgreSQL.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-🌍 I'm based in Athens, Greece<br>✉️ You can contact me at [24dimitris@gmail.com](mailto:24dimitris@gmail.com)<br>🚀 I'm currently working on [Dishmeister](https://www.dishmeister.com): a social recipe app built with React, Supabase, and TypeScript.<br>🧠 I'm currently learning Backend development (Boot.dev my beloved <3) and system design patterns<br>⚡ Native Greek & English speaker. I think most UI problems are actually communication problems. I built a recipe app because I genuinely think about food too much. Probably has too many browser tabs open right now.
+🌍 I'm based in Athens, Greece<br>✉️ You can contact me at [24dimitris@gmail.com](mailto:24dimitris@gmail.com)<br>🚀 I'm currently working on [SyncBasket](https://github.com/KarampelasDS/SyncBasket): a shared grocery list PWA built with React, Node.js, Express, and PostgreSQL.<br>🧠 Interested in system design, API architecture, and building things that actually ship<br>⚡ Built Dishmeister because I genuinely think about food too much. Native Greek & English speaker. Probably has too many browser tabs open right now.
 
 ###
 

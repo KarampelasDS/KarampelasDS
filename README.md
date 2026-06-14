@@ -10,7 +10,7 @@
 
 ###
 
-🌍 I'm based in Athens, Greece<br>✉️ You can contact me at [24dimitris@gmail.com](mailto:24dimitris@gmail.com)<br>🚀 I'm currently working on [SyncBasket](https://github.com/KarampelasDS/SyncBasket): a shared grocery list PWA built with React, Node.js, Express, and PostgreSQL.<br>🧠 Interested in system design, API architecture, and building things that actually ship<br>⚡ Built Dishmeister because I genuinely think about food too much. Native Greek & English speaker. Probably has too many browser tabs open right now.
+🌍 I'm based in Athens, Greece<br>✉️ You can contact me at [24dimitris@gmail.com](mailto:24dimitris@gmail.com)<br>🚀 I'm currently working on [LystMate](https://github.com/KarampelasDS/LystMate): a shared grocery list PWA built with React, Node.js, Express, and PostgreSQL.<br>🧠 Interested in system design, API architecture, and building things that actually ship<br>⚡ Built Dishmeister because I genuinely think about food too much. Native Greek & English speaker. Probably has too many browser tabs open right now.
 
 ###
 
